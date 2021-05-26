@@ -1,4 +1,4 @@
-# prime-futball-creator (PFC)
+# prime-football-creator (PFC)
 A simple football team manager
 
 This project is aim to demostrate different techonologies used regulary with Javascript. In that sense a very simple backend will be built with Typescript, able to handle the bussines logic of a football team manager.
